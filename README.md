@@ -1,5 +1,6 @@
 ## Hi there 👋 My Name Is JB 
-<h4 align="center">A dedicated developer from the Philippines, passionate about integrating AI and mobile technologies</h4>
+<h4 align="center">A dedicated BSCS student from the Philippines, passionate about AI, mobile technologies, and web development</h4>
+
 
 
 
